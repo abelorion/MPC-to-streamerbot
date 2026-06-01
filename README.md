@@ -8,3 +8,8 @@ A python script to send data to MPC-HC, specifically designed to use streamer.bo
 4. adjust the "write to file" action so it targets the queue file
 5. adjust the "run a program" action so it targets your version of pythonw(version that doesn't show a command line lol)
 6. try the command to verify it works
+
+#TODO
+Blacklist for annoying videos
+A way for mods to check what's in the list and approve them before adding
+A way for chat to see the next videos in the queue

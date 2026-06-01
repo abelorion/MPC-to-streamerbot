@@ -11,5 +11,7 @@ A python script to send data to MPC-HC, specifically designed to use streamer.bo
 
 # TODO
 Blacklist for annoying videos
+
 A way for mods to check what's in the list and approve them before adding
+
 A way for chat to see the next videos in the queue
